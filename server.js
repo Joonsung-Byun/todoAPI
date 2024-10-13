@@ -16,6 +16,7 @@ const categories = [
     {c_id: 2 ,t_id: 2, name: 'home' },
     {c_id: 3 ,t_id: 3, name: 'school' },
     {c_id: 4 ,t_id: 4, name: 'work' },
+    
 ]
 //I will use Body, x-www-form-urlencoded to send data to the server
 
